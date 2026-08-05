@@ -7,8 +7,8 @@
 # 详细见同目录 ../RELEASE.md「Homebrew tap」一节。
 
 cask "fluentspeech" do
-  version "0.1.0"
-  sha256 "9e1abcc01b5d2b6acaf3ba3a4c59b5c77c2f8bf2c3aea047413ef1e9c9ddd0ac"
+  version "0.2.0"
+  sha256 "37f7b8715b215bc0a611aa9bde6079f2236844be9f16e81e4759617bf4ee9c6f"
 
   url "https://github.com/gudi565/fluentspeech/releases/download/v#{version}/FluentSpeech-#{version}.dmg"
   name "流畅对话"
